@@ -4,5 +4,4 @@
   
 [**Link To Begin**](chooselocation.md)  
 [**Link to Google Drawing**](https://docs.google.com/a/hstat.org/drawings/d/1ZuMHbQcL67G-Y7tLxnAhfdS3HGtK7Gf14j7PUTlIrn8/edit?usp=sharing)  
-The purpose of the project was to make an interactive project that allows users to choose between different options, and allows them to control the adventure they go on.  
- 
+The purpose of the project was to make an interactive project that allows users to choose between different options, and allows them to control the adventure they go on.  We also worked on collaborating with our peers and communicating with each other to avoid merge conflicts.
